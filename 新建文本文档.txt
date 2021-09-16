@@ -1,0 +1,10 @@
+//Summary: This is a class template for introducing oneself    
+//Author:ReVanTis    //Releases under WTFPL WTFPL   
+ //Change code to match your own information    
+public class ReVanTis : Human    {       
+public static string gender = "male";        
+public static DateTime dateOfBirth = new DateTime(1991, 1, 23);    
+public static String[] canDo = { "C", "C++","C#","Java",@".Net Framework" };       
+ public static String[] goodAt = { "C", "C++" };        
+public static String[] interests = {"Graphic Processing","Game Developing"};       
+ //Blah blah blah ... and so on    }
